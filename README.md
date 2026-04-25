@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Ahmed
+# 👋 Hi there, I'm Ahmed 
 
 **Frontend Software Engineer | 8+ Years Building Fast, Accessible Experiences**
 
